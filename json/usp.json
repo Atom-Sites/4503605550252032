@@ -1,0 +1,21 @@
+{
+    "headerText": "Why Choose Hotshots Drain Cleaning?",
+    "uspDescription": "Hotshots Drain Cleaning is a trusted provider of drainage, plumbing, and septic system services. Our team of experienced professionals is dedicated to delivering top-notch solutions for your home or business. We pride ourselves on our quick response time, friendly service, and competitive pricing.",
+    "features": [
+        {
+            "name": "Expert Drainage Services",
+            "description": "Our skilled team specializes in unclogging drains, repairing sewers, and conducting sewer camera inspections. We use state-of-the-art equipment to ensure the best results for your drainage system.",
+            "href": "https://www.hotshotsdraincleaning.com/services"
+        },
+        {
+            "name": "Septic System Solutions",
+            "description": "We offer comprehensive septic system services, including waste water treatment and repair of outdoor systems. Our experts are committed to maintaining the health and efficiency of your septic system.",
+            "href": "https://www.hotshotsdraincleaning.com/septic-systems"
+        },
+        {
+            "name": "Exceptional Customer Reviews",
+            "description": "Our customers love our fast response time, friendly service, and professional results. Check out our 5-star reviews on Google and Facebook to see what our satisfied clients have to say.",
+            "href": "https://www.hotshotsdraincleaning.com/reviews"
+        }
+    ]
+}

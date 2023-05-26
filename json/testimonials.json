@@ -1,0 +1,55 @@
+{
+    "headerText": "Reviews",
+    "headerSubText": "Read what our satisfied customers have to say about Hotshots Drain Cleaning.",
+    "testimonials": [
+        {
+            "body": "I love this company everything you want from service to knowledge.",
+            "author": {
+                "name": "William Jacob",
+                "source": "Google",
+                "icon": "https://cdn-teams-slug.flaticon.com/google.jpg"
+            }
+        },
+        {
+            "body": "Great company with fantastic response time. Friendly and respectful. Ron is a great guy.",
+            "author": {
+                "name": "Ken Davis",
+                "source": "Google",
+                "icon": "https://cdn-teams-slug.flaticon.com/google.jpg"
+            }
+        },
+        {
+            "body": "Awesome service! Owner and employees really care about doing a great job and it shows!",
+            "author": {
+                "name": "Lee Padgett",
+                "source": "Google",
+                "icon": "https://cdn-teams-slug.flaticon.com/google.jpg"
+            }
+        },
+        {
+            "body": "Quick and awesome job clearing my pipes. Highly recommend this company!",
+            "author": {
+                "name": "RandiNicole62",
+                "source": "Google",
+                "icon": "https://cdn-teams-slug.flaticon.com/google.jpg"
+            }
+        },
+        {
+            "body": "Dalton has an outstanding character and so helpful. He was very timely and has fair pricing. I highly recommend him!",
+            "author": {
+                "name": "Devin Huff",
+                "source": "Google",
+                "icon": "https://cdn-teams-slug.flaticon.com/google.jpg"
+            }
+        },
+        {
+            "body": "Great service! They accommodated my schedule as I’m from out of town. Blake was awesome. Would recommend 100%.",
+            "author": {
+                "name": "Lisa Froehlich",
+                "source": "Google",
+                "icon": "https://cdn-teams-slug.flaticon.com/google.jpg"
+            }
+        }
+    ],
+    "anchor": "testimonials"
+}

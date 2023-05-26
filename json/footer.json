@@ -1,0 +1,22 @@
+{
+    "logoImage": "[STOCK: Hotshots Drain Cleaning logo]",
+    "logoImageAlt": "Hotshots Drain Cleaning Logo",
+    "address": "Not Provided",
+    "phone": "+18008584799",
+    "email": "hotshotsdraincleaning@gmail.com",
+    "socials": [
+        {"name": "Facebook", "href": "https://www.facebook.com/107669530584034/reviews"},
+        {"name": "Google", "href": "https://maps.google.com/maps?cid=9302468600137017258"}
+    ],
+    "services": [
+        {"name": "Unclog Drain", "href": "#services"},
+        {"name": "Repair Sewer", "href": "#services"},
+        {"name": "Waste Water Treatment", "href": "#services"},
+        {"name": "Sewer Camera Inspections", "href": "#services"},
+        {"name": "Repair Outdoor Systems", "href": "#services"}
+    ],
+    "review_href": "#reviews",
+    "services_href": "#services",
+    "contact_href": "#contact",
+    "anchor": "footer"
+}

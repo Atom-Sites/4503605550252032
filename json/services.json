@@ -1,0 +1,89 @@
+{
+    "services": [
+        {
+            "serviceBlurb": "Expert Drain Unclogging",
+            "serviceSlug": "Quick and efficient drain unclogging services for your home or business.",
+            "serviceText": "Our team of professionals at Hotshots Drain Cleaning specializes in unclogging drains, ensuring that your plumbing system functions smoothly. We use advanced equipment and techniques to remove blockages and prevent future issues. Trust us to keep your drains flowing freely.",
+            "imageUrl": "https://image.shutterstock.com/display_pic_with_logo/301539971/187140224/stock-photo-young-plumber-unclogging-a-bathtube-drain-with-plunger-187140224.jpg",
+            "imageAlt": "Drain unclogging service",
+            "features": [
+                {
+                    "name": "Residential and Commercial Services",
+                    "description": "We provide drain unclogging services for both residential and commercial properties, ensuring that your plumbing system is functioning at its best."
+                },
+                {
+                    "name": "Advanced Equipment",
+                    "description": "Our team uses advanced equipment and techniques to effectively remove blockages and prevent future issues."
+                },
+                {
+                    "name": "Preventative Maintenance",
+                    "description": "We offer preventative maintenance services to keep your drains flowing freely and avoid costly repairs in the future."
+                }
+            ]
+        },
+        {
+            "serviceBlurb": "Reliable Sewer Repair",
+            "serviceSlug": "Comprehensive sewer repair services to keep your plumbing system in top condition.",
+            "serviceText": "At Hotshots Drain Cleaning, we offer reliable sewer repair services to address any issues with your plumbing system. Our experienced technicians use state-of-the-art equipment to diagnose and repair sewer problems, ensuring that your system operates efficiently and safely.",
+            "imageUrl": "https://image.shutterstock.com/display_pic_with_logo/228999649/678761068/stock-photo-worker-making-repairs-in-manhole-on-water-supply-at-city-street-678761068.jpg",
+            "imageAlt": "Sewer repair service",
+            "features": [
+                {
+                    "name": "Diagnosis and Repair",
+                    "description": "Our team of experts will diagnose the issue with your sewer system and provide the necessary repairs to restore its functionality."
+                },
+                {
+                    "name": "State-of-the-Art Equipment",
+                    "description": "We use the latest equipment and technology to ensure that your sewer system is repaired efficiently and effectively."
+                },
+                {
+                    "name": "Safety and Compliance",
+                    "description": "Our technicians adhere to strict safety standards and ensure that your sewer system complies with local regulations."
+                }
+            ]
+        },
+        {
+            "serviceBlurb": "Waste Water Treatment",
+            "serviceSlug": "Effective waste water treatment solutions for a cleaner and safer environment.",
+            "serviceText": "Hotshots Drain Cleaning provides waste water treatment services to help protect the environment and ensure the health and safety of your property. Our team of experts utilizes advanced technology and methods to treat and dispose of waste water in a responsible and eco-friendly manner.",
+            "imageUrl": "https://image.shutterstock.com/display_pic_with_logo/228999649/1895146783/stock-photo-aeration-pool-of-the-municipal-wastewater-treatment-plant-water-treatment-plant-1895146783.jpg",
+            "imageAlt": "Waste water treatment service",
+            "features": [
+                {
+                    "name": "Eco-Friendly Solutions",
+                    "description": "We utilize environmentally friendly methods and technology to treat and dispose of waste water, protecting the environment and your property."
+                },
+                {
+                    "name": "Advanced Treatment Methods",
+                    "description": "Our team of experts uses advanced treatment methods to ensure that waste water is properly treated and disposed of."
+                },
+                {
+                    "name": "Compliance and Safety",
+                    "description": "We adhere to strict safety standards and ensure that our waste water treatment services comply with local regulations."
+                }
+            ]
+        },
+        {
+            "serviceBlurb": "Sewer Camera Inspections",
+            "serviceSlug": "Accurate sewer camera inspections to identify and resolve plumbing issues.",
+            "serviceText": "Hotshots Drain Cleaning offers sewer camera inspections to accurately identify and diagnose plumbing issues. Our team uses high-resolution cameras to inspect your sewer system, allowing us to pinpoint the exact location of any problems and provide the most effective solutions.",
+            "imageUrl": "https://image.shutterstock.com/display_pic_with_logo/301131899/1807571125/stock-photo-professional-mature-doctor-standing-with-a-modern-endoscope-and-checking-the-monitor-of-his-medical-1807571125.jpg",
+            "imageAlt": "Sewer camera inspection service",
+            "features": [
+                {
+                    "name": "High-Resolution Imaging",
+                    "description": "Our sewer camera inspections utilize high-resolution imaging to accurately identify and diagnose plumbing issues."
+                },
+                {
+                    "name": "Precise Problem Identification",
+                    "description": "Our advanced camera technology allows us to pinpoint the exact location of any issues within your sewer system."
+                },
+                {
+                    "name": "Effective Solutions",
+                    "description": "By accurately identifying the problem, we can provide the most effective solutions to resolve your plumbing issues."
+                }
+            ]
+        }
+    ],
+    "anchor": "services"
+}
